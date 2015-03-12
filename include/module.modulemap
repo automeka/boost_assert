@@ -1,0 +1,4 @@
+module boost_assert {
+  textual header "boost/assert.hpp"
+  textual header "boost/current_function.hpp"
+}
